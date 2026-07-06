@@ -23,15 +23,14 @@ This repository fully reproduces the experiments described in the thesis. We rep
 ## Repository Structure
 
 ```
-eeg-schizophrenia-replication/
+eeg-schizophrenia-detection/
 │
 ├── README.md
 ├── LICENSE
 ├── requirements.txt         ← pip install -r requirements.txt
-├── environment.yml          ← conda env create -f environment.yml
 │
 ├── notebooks/
-│   └── schizophrenia_eeg_replication.ipynb   ← main notebook (all experiments)
+│   └── schizophrenia_eeg_detection.ipynb   ← main notebook (all experiments)
 │
 ├── figures/                        ← output figures (auto-generated)
 │   └── .gitkeep
