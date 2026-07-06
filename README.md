@@ -1,10 +1,9 @@
 # EEG-Based Schizophrenia Detection: Replication & Critical Evaluation
 
-> **Thesis:** *Feature Complexity vs Sample Size in EEG-Based Schizophrenia Detection:
-> A Replication and Critical Evaluation of Gosala et al. (2023)*
+> **Thesis:** Wavelet-Based EEG Classification for Schizophrenia Detection **
 >
 > **Author:** Bamdad Booyeh · [GitHub](https://github.com/BamdadBooyeh)
-> **Institution:** Sapienza University of Rome · 2025
+
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange)](https://pytorch.org/)
